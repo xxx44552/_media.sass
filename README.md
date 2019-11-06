@@ -6,9 +6,9 @@ Import as component:
 
 Example:
 
-.h3
-  font-size: 16px
-  color: #414042
+    .h3
+      font-size: 16px
+      color: #414042
 
-    +mobile_min
-       font-size: 18px
+      +mobile_min
+         font-size: 18px
