@@ -2,7 +2,7 @@
 Media Queries in Sass
 
 Import as component: 
-     @import "media"
+     @import "_media"
 
 Example:
 
